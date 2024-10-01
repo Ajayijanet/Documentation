@@ -13,5 +13,14 @@
    1. For Data Cleaning
    2. For  Analysis
    3. For Data Visualization
+      
 - SQL - Structure Query Language for QuerYing of Data
 - GitHub for Portfolio Building
+
+### Data Cleaning and Preparations
+
+### Exploratory Data Analysis
+
+### Data Analysis
+
+
