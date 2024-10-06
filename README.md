@@ -4,6 +4,8 @@
 
 ### Project Overview
 
+This data analysis LITA project goal is to each students on data exploration,cleaning and data visualization,and also to equip students with these data skills,so that they can stand out in the digital space
+
 
 ### Data Sources
 
